@@ -3,8 +3,6 @@ ID (auf Zettel),Gruppe(PO/OP),System(P/O),Alter,Uhrzeit,Datum,Vorerfahrung,Stimm
 2PO,PO,O,29,15:15,30.05.2023,2,3,4,4,i,2,,ja,nein,nein,nein,3,3,18,12,,3,3,3,
 3OP,OP,O,21,15:40,30.05.2023,2,4,4,3,o,2,,ja,ja,nein,ja,0,3,9,6,,3,2,3,
 3OP,OP,P,21,15:40,30.05.2023,2,4,4,3,o,2,,ja,ja,ja,ja,0,5,3,8,,4,4,4,
-4PO,PO,P,21,14:52,31.05.2023,,,,,i,2,,ja,ja,,,0,1,1,,,,,,Testperson spricht Englisch
-4PO,PO,O,21,14:52,31.05.2023,,,,,i,2,,,,,,,,,,,,,,technische Schwierigkeiten
 5PO,PO,P,25,15:05,31.05.2023,3,5,5,1,i,2,,ja,ja,ja,ja,0,3,7,3,,5,5,5,
 5PO,PO,O,25,15:05,31.05.2023,3,5,5,1,i,2,,ja,nein,nein,ja,10,6,2,11,,2,3,3,
 6OP,OP,O,26,15:25,31.05.2023,3,5,5,2,i,2,,ja,nein,nein,ja,0,1,7,6,,4,4,4,
